@@ -1,0 +1,234 @@
+region,country,population,id
+Asia,India,1463865525,IN
+Asia,China,1416096094,CN
+Asia,Indonesia,285721236,ID
+Asia,Pakistan,255219554,PK
+Asia,Bangladesh,175686899,BD
+Asia,Japan,123103479,JP
+Asia,Philippines,116786962,PH
+Asia,Vietnam,101598527,VN
+Asia,Iran,92417681,IR
+Asia,Turkey,87685426,TR
+Asia,Thailand,71619863,TH
+Asia,Myanmar,54850648,MM
+Asia,South Korea,51667029,KR
+Asia,Iraq,47020774,IQ
+Asia,Afghanistan,43844111,AF
+Asia,Yemen,41773878,YE
+Asia,Uzbekistan,37053428,UZ
+Asia,Malaysia,35977838,MY
+Asia,Saudi Arabia,34566328,SA
+Asia,Nepal,29618118,NP
+Asia,North Korea,26571036,KP
+Asia,Syria,25620427,SY
+Asia,Sri Lanka,23229470,LK
+Asia,Taiwan,23112793,TW
+Asia,Kazakhstan,20843754,KZ
+Asia,Cambodia,17847982,KH
+Asia,Jordan,11520684,JO
+Asia,United Arab Emirates,11346000,AE
+Asia,Tajikistan,10786734,TJ
+Asia,Azerbaijan,10397713,AZ
+Asia,Israel,9517181,IL
+Asia,Laos,7873046,LA
+Asia,Turkmenistan,7618847,TM
+Asia,Hong Kong,7396076,HK
+Asia,Kyrgyzstan,7295034,KG
+Asia,Singapore,5870750,SG
+Asia,Lebanon,5849421,LB
+Asia,State of Palestine,5589623,PS
+Asia,Oman,5494691,OM
+Asia,Kuwait,5026078,KW
+Asia,Georgia,3806671,GE
+Asia,Mongolia,3517100,MN
+Asia,Qatar,3115889,QA
+Asia,Armenia,2952365,AM
+Asia,Bahrain,1643332,BH
+Asia,Timor-Leste,1418517,TL
+Asia,Cyprus,1370754,CY
+Asia,Bhutan,796682,BT
+Asia,Macao,722007,MO
+Asia,Maldives,529676,MV
+Asia,Brunei,466330,BN
+Africa,Nigeria,237527782,NG
+Africa,Ethiopia,135472051,ET
+Africa,Egypt,118365995,EG
+Africa,DR Congo,112832473,CD
+Africa,Tanzania,70545865,TZ
+Africa,South Africa,64747319,ZA
+Africa,Kenya,57532493,KE
+Africa,Sudan,51662147,SS
+Africa,Uganda,51384894,UG
+Africa,Algeria,47435312,DZ
+Africa,Angola,39040039,AO
+Africa,Morocco,38430770,MA
+Africa,Mozambique,35631653,MZ
+Africa,Ghana,35064272,GH
+Africa,Madagascar,32740678,MG
+Africa,Côte d'Ivoire,32711547,CI
+Africa,Cameroon,29879337,CM
+Africa,Niger,27917831,NE
+Africa,Mali,25198821,ML
+Africa,Burkina Faso,24074580,BF
+Africa,Malawi,22216120,MW
+Africa,Zambia,21913874,ZM
+Africa,Chad,21003705,TD
+Africa,Somalia,19654739,SO
+Africa,Senegal,18931966,SN
+Africa,Zimbabwe,16950795,ZW
+Africa,Guinea,15099727,GN
+Africa,Benin,14814460,BJ
+Africa,Rwanda,14569341,RW
+Africa,Burundi,14390003,BI
+Africa,Tunisia,12348573,TN
+Africa,South Sudan,12188788,SS
+Africa,Togo,9721608,TG
+Africa,Sierra Leone,8819794,SL
+Africa,Libya,7458555,LY
+Africa,Congo,6484437,CG
+Africa,Liberia,5731206,LR
+Africa,Central African Republic,5513282,CF
+Africa,Mauritania,5315065,MR
+Africa,Eritrea,3607003,ER
+Africa,Namibia,3092816,NA
+Africa,Gambia,2822093,GM
+Africa,Gabon,2593130,GA
+Africa,Botswana,2562122,BW
+Africa,Lesotho,2363325,LS
+Africa,Guinea-Bissau,2249515,GW
+Africa,Equatorial Guinea,1938431,GQ
+Africa,Mauritius,1268280,MU
+Africa,Eswatini,1256174,SZ
+Africa,Djibouti,1184076,DJ
+Africa,Comoros,882847,KM
+Africa,Réunion,882405,RE
+Africa,Western Sahara,600904,EH
+Africa,Cabo Verde,527326,CV
+Africa,Mayotte,337011,YT
+Africa,Sao Tome & Principe,240254,ST
+Africa,Seychelles,132779,SC
+Africa,Saint Helena,5197,SH
+Europe,Russia,143997393,RU
+Europe,Germany,84075075,DE
+Europe,United Kingdom,69551332,GB
+Europe,France,66650804,FR
+Europe,Italy,59146260,IT
+Europe,Spain,47889958,ES
+Europe,Ukraine,38980376,UA
+Europe,Poland,38140910,PL
+Europe,Romania,18908650,RO
+Europe,Netherlands,18346819,NL
+Europe,Belgium,11758603,BE
+Europe,Sweden,10656633,SE
+Europe,Czech Republic (Czechia),10609239,CZ
+Europe,Portugal,10411834,PT
+Europe,Greece,9938844,GR
+Europe,Hungary,9632287,HU
+Europe,Austria,9113574,AT
+Europe,Belarus,8997603,BY
+Europe,Switzerland,8967407,CH
+Europe,Bulgaria,6714560,BG
+Europe,Serbia,6689039,RS
+Europe,Denmark,6002507,DK
+Europe,Finland,5623329,FI
+Europe,Norway,5623071,NO
+Europe,Slovakia,5474881,SK
+Europe,Ireland,5308039,IE
+Europe,Croatia,3848160,HR
+Europe,Bosnia and Herzegovina,3140095,BA
+Europe,Moldova,2996106,MD
+Europe,Lithuania,2830144,LT
+Europe,Albania,2771508,AL
+Europe,Slovenia,2117072,SI
+Europe,Latvia,1853559,LV
+Europe,North Macedonia,1813791,MK
+Europe,Estonia,1344232,EE
+Europe,Luxembourg,680453,LU
+Europe,Montenegro,632729,ME
+Europe,Malta,545405,MT
+Europe,Iceland,398266,IS
+Europe,Isle of Man,84118,IM
+Europe,Andorra,82904,AD
+Europe,Faeroe Islands,56002,FI
+Europe,Liechtenstein,40128,LI
+Europe,Gibraltar,40126,GI
+Europe,Monaco,38341,MC
+Europe,San Marino,33572,SM
+Europe,Holy See,501,VA
+"Latin America and the Caribbean",Brazil,212812405,BR
+"Latin America and the Caribbean",Mexico,131946900,MX
+"Latin America and the Caribbean",Colombia,53425635,CO
+"Latin America and the Caribbean",Argentina,45851378,AR
+"Latin America and the Caribbean",Peru,34576665,PE
+"Latin America and the Caribbean",Venezuela,28516896,VE
+"Latin America and the Caribbean",Chile,19859921,CL
+"Latin America and the Caribbean",Guatemala,18687881,GT
+"Latin America and the Caribbean",Ecuador,18289896,EC
+"Latin America and the Caribbean",Bolivia,12581843,BO
+"Latin America and the Caribbean",Haiti,11906095,HT
+"Latin America and the Caribbean",Dominican Republic,11520487,DM
+"Latin America and the Caribbean",Honduras,11005850,HN
+"Latin America and the Caribbean",Cuba,10937203,CU
+"Latin America and the Caribbean",Paraguay,7013078,PY
+"Latin America and the Caribbean",Nicaragua,7007502,NI
+"Latin America and the Caribbean",El Salvador,6365503,SV
+"Latin America and the Caribbean",Costa Rica,5152950,CR
+"Latin America and the Caribbean",Panama,4571189,PA
+"Latin America and the Caribbean",Uruguay,3384688,UY
+"Latin America and the Caribbean",Puerto Rico,3235289,PR
+"Latin America and the Caribbean",Jamaica,2837077,JM
+"Latin America and the Caribbean",Trinidad and Tobago,1511155,TT
+"Latin America and the Caribbean",Guyana,835986,GY
+"Latin America and the Caribbean",Suriname,639850,SR
+"Latin America and the Caribbean",Belize,422924,BZ
+"Latin America and the Caribbean",Bahamas,403033,BS
+"Latin America and the Caribbean",Guadeloupe,373791,GP
+"Latin America and the Caribbean",Martinique,340439,MQ
+"Latin America and the Caribbean",French Guiana,313666,GF
+"Latin America and the Caribbean",Barbados,282623,BB
+"Latin America and the Caribbean",Curaçao,185487,CW
+"Latin America and the Caribbean",Saint Lucia,180149,LC
+"Latin America and the Caribbean",Grenada,117303,GD
+"Latin America and the Caribbean",Aruba,108147,AW
+"Latin America and the Caribbean",St. Vincent & Grenadines,99924,VC
+"Latin America and the Caribbean",Antigua and Barbuda,94209,AG
+"Latin America and the Caribbean",U.S. Virgin Islands,84138,VI
+"Latin America and the Caribbean",Cayman Islands,75844,KY
+"Latin America and the Caribbean",Dominica,65871,DM
+"Latin America and the Caribbean",Saint Kitts & Nevis,46922,KN
+"Latin America and the Caribbean",Turks and Caicos,46855,TC
+"Latin America and the Caribbean",Sint Maarten,43923,SX
+"Latin America and the Caribbean",British Virgin Islands,39732,VG
+"Latin America and the Caribbean",Caribbean Netherlands,31338,CN
+"Latin America and the Caribbean",Anguilla,14728,AI
+"Latin America and the Caribbean",Saint Barthelemy,11414,SB
+"Latin America and the Caribbean",Montserrat,4359,MS
+"Latin America and the Caribbean",Falkland Islands,3469,FK
+Northern America,United States,347275807,US
+Northern America,Canada,40126723,CA
+Northern America,Bermuda,64555,BM
+Northern America,Greenland,55745,GL
+Northern America,Saint Pierre & Miquelon,5574,PM
+Oceania,Australia,26974026,AU
+Oceania,Papua New Guinea,10762817,PG
+Oceania,New Zealand,5251899,NZ
+Oceania,Fiji,933154,FJ
+Oceania,Solomon Islands,838645,SB
+Oceania,Vanuatu,335169,VU
+Oceania,New Caledonia,295333,NC
+Oceania,French Polynesia,282465,PF
+Oceania,Samoa,219306,WS
+Oceania,Guam,168999,GU
+Oceania,Kiribati,136488,KI
+Oceania,Micronesia,113683,FM
+Oceania,Tonga,103742,TO
+Oceania,American Samoa,46029,WS
+Oceania,Northern Mariana Islands,43541,MP
+Oceania,Marshall Islands,36282,MH
+Oceania,Palau,17663,PW
+Oceania,Cook Islands,13263,CK
+Oceania,Nauru,12025,NR
+Oceania,Wallis & Futuna,11194,WF
+Oceania,Tuvalu,9492,TV
+Oceania,Tokelau,2608,TK
+Oceania,Niue,1821,NU
